@@ -1,6 +1,8 @@
 Docker-Registry
 ===============
 
+[![Join the chat at https://gitter.im/23critters/docker-registry](https://badges.gitter.im/23critters/docker-registry.svg)](https://gitter.im/23critters/docker-registry?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/dotcloud/docker-registry.png)](https://travis-ci.org/dotcloud/docker-registry)
 
 Create the configuration
